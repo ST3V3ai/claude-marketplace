@@ -17,6 +17,16 @@
         "name": "Steve Hughes"
       },
       "homepage": "https://github.com/ST3V3ai/superpowers-enhanced"
+    },
+    {
+      "name": "troubleshooting",
+      "source": "./plugins/troubleshooting",
+      "description": "Systematic, hypothesis-driven troubleshooting — software, hardware, or real-world.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Steve Hughes"
+      },
+      "homepage": "https://github.com/ST3V3ai/marketplace"
     }
   ]
 }
